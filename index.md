@@ -1,6 +1,6 @@
 ## 欢迎来到 Lychee college
 
-You can use the [editor on GitHub](https://github.com/summer-0901/summer-0901.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
